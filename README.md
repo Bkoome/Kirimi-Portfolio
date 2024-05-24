@@ -1,1 +1,2 @@
-# Kirimi-Portfolio
+# Beatrice-Gathogo
+Beatrice Gathogo personal profile
